@@ -1,0 +1,47 @@
+<Java9lib>
+    <out>
+        <production>
+            <Java9>
+                <com>
+                    <intellij>
+                        <uiDesigner>
+                            <core>
+                                <files kind="binary/java-class">
+                                    AbstractLayout
+                                    DimensionInfo
+                                    GridConstraints
+                                    GridLayoutManager
+                                    HorizontalInfo
+                                    LayoutState
+                                    Spacer
+                                    SupportCode
+                                    Util
+                                    VerticalInfo
+                                </files>
+                            </core>
+                        </uiDesigner>
+                    </intellij>
+                </com>
+                <lang>
+                    <JAVA kind="binary/class">KittenBlock</JAVA>
+                    <JAVA kind="binary/interface">RunJEKT</JAVA>
+                </lang>
+            </Java9>
+        </production>
+    </out>
+    <src>
+        <addons>
+            <xml>
+                <XML>Directory.xml</XML>
+            </xml>
+            <TEXT kind="text/markdown">README.mk</TEXT>
+        </addons>
+        <art>
+
+        </art>
+        <lang>
+            <JAVA kind="class">KittenBlock</JAVA>
+            <JAVA kind="interface">RunJEKT</JAVA>
+        </lang>
+    </src>
+</Java9lib>
